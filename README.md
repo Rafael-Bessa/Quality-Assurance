@@ -57,3 +57,21 @@ Em resumo:
 O teste de caixa preta é útil para verificar se o software atende aos requisitos e funciona como esperado pelo usuário.
 O teste de caixa branca é útil para garantir que o software está bem escrito, eficiente e livre de erros de lógica.
 Idealmente, ambos os tipos de teste devem ser usados em conjunto para garantir a qualidade do software.
+
+<br>
+
+![4](https://github.com/Rafael-Bessa/Quality-Assurance/assets/104053775/3fe3322a-9c5c-49ca-8e97-1799314a99c7)
+
+<br>
+
+## Reportar BUGS
+
+![5](https://github.com/Rafael-Bessa/Quality-Assurance/assets/104053775/7875bc82-2c79-4c70-94d4-9ebac346a0ee)
+
+![6](https://github.com/Rafael-Bessa/Quality-Assurance/assets/104053775/df3be0fb-2eaf-427d-a28d-6aede45e42f8)
+
+## Qualidade
+
+![7](https://github.com/Rafael-Bessa/Quality-Assurance/assets/104053775/ed51a4e4-7c08-4c04-86d7-fbc384f54323)
+
+
