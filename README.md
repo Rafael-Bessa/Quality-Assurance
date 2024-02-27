@@ -60,7 +60,12 @@ Idealmente, ambos os tipos de teste devem ser usados em conjunto para garantir a
 
 <br>
 
+## Piramide de testes, cobertura de testes
+
 ![4](https://github.com/Rafael-Bessa/Quality-Assurance/assets/104053775/3fe3322a-9c5c-49ca-8e97-1799314a99c7)
+
+![8](https://github.com/Rafael-Bessa/Quality-Assurance/assets/104053775/f3251f03-c3c1-43c7-8084-5ae46a280322)
+
 
 <br>
 
